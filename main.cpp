@@ -1,7 +1,7 @@
 /**
  * main.cpp
  *
- * Copyright 2018 Andrew Hughes (ahughes6@buffalo.edu)
+ * Copyright 2018 Joseph Dubill (jwdubill@buffalo.edu)
  *
  * This work is licensed under the Creative Commons 
  * Attribution-NonCommercial-ShareAlike 4.0 International License.
